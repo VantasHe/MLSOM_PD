@@ -1,0 +1,12 @@
+// 將您的設定放入此檔案中以覆寫預設值和使用者設定。
+{
+    "python.pythonPath": "/Library/Frameworks/Python.framework/Versions/3.5/bin/python3",
+    // 已啟用 Git
+    "git.enabled": false,
+
+    // Git 可執行檔的路徑
+    "git.path": null,
+
+    // 是否啟用自動擷取。
+    "git.autofetch": true
+}
